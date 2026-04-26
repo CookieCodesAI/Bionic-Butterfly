@@ -6,6 +6,7 @@ For a while now, I've been wanted to create bigger hardware projects than the on
 
 ### 3D model of whole project
 ![butterfly_cad.png](images/full_butterfly.png)
+The wings will be made with flower paper and carbon fiber to make sure that they don't weigh too much. Additionally, the wings will be connected to the servo horns with a connector that I will make and mold to make sure that it fits perfectly.  
 
 ### 3D model of main body with Servos and Raspberry Pi Pico
 ![butterfly_cad.png](images/main_body_model.png)
