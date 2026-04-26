@@ -10,6 +10,7 @@ The wings will be made with flower paper and carbon fiber to make sure that they
 
 ### 3D model of main body with Servos and Raspberry Pi Pico
 ![butterfly_cad.png](images/main_body_model.png)
+The Pico will be able to fit in the gap in the middle of the body. The servos will be placed on the angled sides of the main body and the wires will be connected as shown in the wiring diagram. The 1S LiPo battery and boost converter (not shown in the CAD) will most likely be glued to the top of the main body and the wires will connect to the servo and Pico as showing in the wiring diagram. 
 
 ### Wiring Diagram
 ![wiring.png](images/wiring_diagram.png)
