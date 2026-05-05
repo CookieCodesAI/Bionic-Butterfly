@@ -1,8 +1,8 @@
 from machine import Pin, PWM
 import time
 
-r_servo = PWM(Pin(15))
-l_servo = PWM(Pin(14))
+r_servo = PWM(Pin(2))
+l_servo = PWM(Pin(3))
 
 r_servo.freq(50)
 l_servo.freq(50)
